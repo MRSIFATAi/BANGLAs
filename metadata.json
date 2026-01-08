@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Bangla AI Content Creator",
+  "description": "An advanced AI-powered tool for transcribing Bangla audio/video and generating optimized social media content including titles, thumbnails, and descriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
